@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Afkyimrahatbirak",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "VortexRiseMC.aternos.me",
+    "port": 37033,
     "version": "",
     "try-creative": false
   },
